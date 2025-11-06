@@ -37,6 +37,7 @@ Assignment/
 │   ├── prepare_data.py         # Data preparation script
 │   ├── run_alignment.py        # Alignment pipeline script
 │   ├── analyze_outputs.py      # Output validation and analysis
+│   ├── run_full_pipeline.py    # Run complete end-to-end pipeline
 │   └── test_pipeline.py        # End-to-end testing script
 ```
 
