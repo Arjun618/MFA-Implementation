@@ -52,7 +52,7 @@ Assignment/
 ### Step 1: Clone the Repository
 
 ```bash
-cd "/Users/arjungupta/Desktop/KHJ/IIIT_HYDRABAD/Assignment"
+git clone https://github.com/Arjun618/MFA-Implementation
 ```
 
 ### Step 2: Create Conda Environment
