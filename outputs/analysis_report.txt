@@ -1,0 +1,67 @@
+============================================================
+MFA ALIGNMENT ANALYSIS REPORT
+============================================================
+
+Generated: 2025-11-06 21:27:37
+
+OVERALL STATISTICS
+------------------------------------------------------------
+Total files: 6
+Total duration: 97.16s (1.62m)
+Total words: 241
+Total phonemes: 1016
+
+WORD DURATION STATISTICS
+------------------------------------------------------------
+Mean: 0.335s
+Median: 0.320s
+Std Dev: 0.192s
+Range: 0.040s - 0.890s
+
+PHONEME DURATION STATISTICS
+------------------------------------------------------------
+Mean: 0.076s
+Median: 0.070s
+Std Dev: 0.038s
+Range: 0.010s - 0.320s
+
+PER-FILE STATISTICS
+------------------------------------------------------------
+F2BJRLP2.TextGrid
+  Duration: 28.65s
+  Words: 74
+  Phonemes: 325
+
+F2BJRLP3.TextGrid
+  Duration: 30.71s
+  Words: 82
+  Phonemes: 372
+
+ISLE_SESS0131_BLOCKD02_01_sprt1.TextGrid
+  Duration: 4.12s
+  Words: 5
+  Phonemes: 13
+
+ISLE_SESS0131_BLOCKD02_03_sprt1.TextGrid
+  Duration: 4.50s
+  Words: 5
+  Phonemes: 13
+
+ISLE_SESS0131_BLOCKD02_02_sprt1.TextGrid
+  Duration: 3.88s
+  Words: 5
+  Phonemes: 12
+
+F2BJRLP1.TextGrid
+  Duration: 25.31s
+  Words: 70
+  Phonemes: 281
+
+IDENTIFIED ISSUES
+------------------------------------------------------------
+[WARNING] F2BJRLP1.TextGrid
+  1 phonemes shorter than 20ms
+
+[INFO] F2BJRLP1.TextGrid
+  1 words shorter than 50ms
+

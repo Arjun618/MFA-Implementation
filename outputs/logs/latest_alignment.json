@@ -1,0 +1,17 @@
+{
+  "timestamp": "2025-11-06T21:27:34.989419",
+  "duration_seconds": 39.339406967163086,
+  "duration_minutes": 0.6556567827860514,
+  "outputs": {
+    "textgrid_count": 6,
+    "textgrid_files": [
+      "F2BJRLP2.TextGrid",
+      "F2BJRLP3.TextGrid",
+      "ISLE_SESS0131_BLOCKD02_01_sprt1.TextGrid",
+      "ISLE_SESS0131_BLOCKD02_03_sprt1.TextGrid",
+      "ISLE_SESS0131_BLOCKD02_02_sprt1.TextGrid",
+      "F2BJRLP1.TextGrid"
+    ],
+    "timestamp": "2025-11-06T21:27:34.989278"
+  }
+}

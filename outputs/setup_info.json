@@ -1,0 +1,14 @@
+{
+  "mfa_installed": true,
+  "conda_env": "mfa",
+  "python_version": "3.10.15",
+  "models": {
+    "acoustic": "english_us_arpa",
+    "dictionary": "english_us_arpa"
+  },
+  "directories": {
+    "corpus": "/Users/arjungupta/Desktop/KHJ/IIIT_HYDRABAD/Assignment/mfa_data/corpus",
+    "outputs": "/Users/arjungupta/Desktop/KHJ/IIIT_HYDRABAD/Assignment/outputs",
+    "textgrids": "/Users/arjungupta/Desktop/KHJ/IIIT_HYDRABAD/Assignment/outputs/textgrids"
+  }
+}
