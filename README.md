@@ -296,23 +296,6 @@ outputs/
 - [ARPAbet Phoneme Set](https://en.wikipedia.org/wiki/ARPABET)
 - [IPA Chart](https://www.internationalphoneticassociation.org/content/ipa-chart)
 
-## 🎓 Extra Credit Opportunities
-
-1. **Train Custom Dictionary**: Use G2P model to generate pronunciations
-   ```bash
-   mfa g2p english_us_arpa mfa_data/corpus outputs/custom_dict.txt
-   ```
-
-2. **Try Multiple Models**: Compare different acoustic models
-   ```bash
-   mfa model download acoustic english_mfa
-   mfa align mfa_data/corpus english_us_arpa english_mfa outputs/textgrids_mfa
-   ```
-
-3. **Automated Pipeline**: Create a full automation script (see `scripts/run_alignment.py`)
-
-4. **Custom Visualization**: Generate plots of alignment results
-
 ## 📧 Submission Checklist
 
 - [x] GitHub repository with all scripts
