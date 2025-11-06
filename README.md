@@ -127,7 +127,7 @@ Run the complete pipeline with a single command:
 conda activate mfa
 
 # Run the complete pipeline
-python scripts/run_alignment.py
+python scripts/run_full_pipeline.py
 ```
 
 ### Step-by-Step Manual Process
