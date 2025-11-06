@@ -243,6 +243,7 @@ outputs/
 └── visualizations/             # Plots and charts
     ├── phoneme_durations.png
     ├── word_durations.png
+    ├── allignment_quality.png
     └── per_file_statistics.png
 ```
 
