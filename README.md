@@ -1,4 +1,4 @@
-# Montreal Forced Aligner (MFA) Assignment
+# Montreal Forced Aligner (MFA)
 
 This repository contains a complete implementation of forced alignment using the Montreal Forced Aligner (MFA) tool for speech audio and phonetic transcription.
 
